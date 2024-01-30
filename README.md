@@ -59,3 +59,17 @@ Run the bot by executing the main Python script:
 
 ```bash
 python bot.py
+
+
+
+The bot should now be online and operational on your Discord server.
+
+Usage
+Members can earn points by posting images in the designated success channel.
+Use the !leaderboard command to display the leaderboard showing members with the most points.
+
+License
+This project is licensed under the MIT License .
+
+Acknowledgments
+This project is built using the Discord.py library.
