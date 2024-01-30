@@ -1,4 +1,4 @@
-# Discord Bot with Leaderboard
+# Discord Succes Bot with Leaderboard
 
 This Discord bot is designed to award points to members who post images in a specified channel, and it maintains a leaderboard to track members' points.
 
@@ -21,7 +21,7 @@ This Discord bot is designed to award points to members who post images in a spe
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/discord-bot-leaderboard.git
+    git clone https://github.com/aggelos-pappas/discord-succes-bot.git
     ```
 
 2. Navigate to the project directory:
