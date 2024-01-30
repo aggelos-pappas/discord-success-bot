@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKER",
+    "prefix": "!",
+    "success_channel": "SUCCES_CHANNEL",
+    "bot_channel" : "BOT_CHANNEL"
+}
